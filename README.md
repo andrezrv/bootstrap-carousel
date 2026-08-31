@@ -1,5 +1,7 @@
 # Agnosia Bootstrap Carousel
 
+🛑 ***Notice:** This project has reached its end-of-life. The code remains available here for historical reference and archival purposes only.*
+
 A tool that hooks the `[gallery]` shortcode with attribute `type="carousel"` in order to show a [Bootstrap Carousel](http://getbootstrap.com/javascript/#carousel) based on the selected images and their titles and descriptions.
 
 This plugin assumes either your theme includes the necessary Bootstrap javascript and CSS files to display the carousel properly, or that you have included those files on your own. It will not include the files for you, so if they are not present, the carousel will not work and you will only obtain its bare HTML.
