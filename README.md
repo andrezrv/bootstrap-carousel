@@ -1,4 +1,4 @@
-# Agnosia Bootstrap Carousel
+# Bootstrap Carousel
 
 🛑 ***Notice:** This project has reached its end-of-life. The code remains available here for historical reference and archival purposes only.*
 
